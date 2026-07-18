@@ -1,0 +1,6 @@
+{
+  "name": "Smart Market Scanner",
+  "description": "An Android app to scan product QR codes, showing price, nutrition, edible status, and FSSAI certification in real-time.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
